@@ -14,7 +14,6 @@
       <li> data url: url to your json file </li>
       <li> query: the key that matches to the value you 
            want displayed </li>
-      ![base](/images/shields-input.png)
    </ul>
   </li>
   <li> The make badge button will open a new tab where
