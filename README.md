@@ -1,8 +1,13 @@
 # How to Create a Dynamic Github Badge
 ![base](/images/badge.png)
 
+This tutorial will allow you to 
+make a custom badge that connects to your website
+and pulls a string that you would like to 
+display on the right side of the badge.
+
 <ol>
-  <li> Create a pythonEverywhere web app. </li>
+  <li> Create a default pythonEverywhere web app. </li>
   <li> The app should write to a json with a key value pair, 
         where the value will get placed inside the right
         side of the badge. </li>
